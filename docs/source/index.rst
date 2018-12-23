@@ -1,14 +1,22 @@
-.. doctut documentation master file, created by
-   sphinx-quickstart on Sat Dec 22 15:36:59 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Simple Documentation Tutorial: Doctut
+=====================================
 
-Welcome to doctut's documentation!
-==================================
+Another Simple Header
+=====================
+
+Here is some text explaing something important.
+
+    print "hello"
+    >> hello
+
+Guide
+^^^^^
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   license
+   help
 
 
 
